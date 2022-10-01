@@ -1,0 +1,18 @@
+p {
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.extrabold { 
+    font-weight:800; 
+}
+
+ul > li {
+    display: inline-block;
+}
+
+img {
+    width: 50px;
+}
