@@ -2,15 +2,22 @@ p {
     font-family: "Open Sans", sans-serif;
     font-style: normal;
     font-size: 50px;
-    text-align: center;
 }
 
 .extrabold { 
     font-weight:800; 
 }
 
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 ul > li {
     display: inline-block;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 img {
