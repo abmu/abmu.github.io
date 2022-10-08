@@ -63,6 +63,11 @@ ul > li {
 
 #icon {
     width: 52px;
+    transition: .2s ease-in-out 0s;
+}
+
+#icon:hover {
+   transform: scale(1.1);
 }
 
 @media (max-width: 768px) {
