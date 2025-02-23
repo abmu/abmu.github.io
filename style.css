@@ -1,7 +1,6 @@
 body {
     height: 100vh;
-    font-family: "Rubik", sans-serif;
-    font-style: normal;
+    font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     background: #ffffff;
     color: #191919;
     margin: 0px;
