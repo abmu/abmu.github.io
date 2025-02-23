@@ -81,12 +81,12 @@ ul > li {
     margin-right: 5%;
 }
 
-#icon {
+.icon {
     width: 52px;
     transition: .2s ease-in-out 0s;
 }
 
-#icon:hover {
+.icon:hover {
    transform: scale(1.1);
 }
 
@@ -130,7 +130,7 @@ ul > li {
         margin: auto;
     }
 
-    #icon {
+    .icon {
         width: 52px;
     }
 }
